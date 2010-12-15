@@ -1,4 +1,8 @@
+# Build results
 /bin/
+/gen/
 /out/
+
+# Machine specific settings
 /local.properties
 /.idea/workspace.xml
