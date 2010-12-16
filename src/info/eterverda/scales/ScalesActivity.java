@@ -1,9 +1,10 @@
-package info.eterverda.weight;
+package info.eterverda.scales;
 
 import android.app.Activity;
 import android.os.Bundle;
+import info.eterverda.scales.R;
 
-public class WeightActivity extends Activity {
+public class ScalesActivity extends Activity {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
